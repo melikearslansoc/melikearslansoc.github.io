@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cereus-pro.netlify.com/now/</loc>
+    <lastmod>2019-04-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cereus-pro.netlify.com/</loc>
+    <lastmod>2019-04-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cereus-pro.netlify.com/blogs/</loc>
+    <lastmod>2019-04-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cereus-pro.netlify.com/about/</loc>
+    <lastmod>2015-06-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cereus-pro.netlify.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cereus-pro.netlify.com/tags/</loc>
+  </url>
+  
+</urlset>
