@@ -5,10 +5,6 @@
     <link>https://melikearslansoc.github.io/tags/</link>
     <description>Recent content in Tags on Melike Arslan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>id-ID</language>
-    
-	<atom:link href="https://melikearslansoc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>id-ID</language><atom:link href="https://melikearslansoc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
